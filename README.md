@@ -1,2 +1,2 @@
 # runpix-nb
-RunPix nodeooks with run-pix-admin
+RunPix notebooks with run-pix-admin
